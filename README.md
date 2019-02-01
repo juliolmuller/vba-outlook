@@ -197,4 +197,3 @@ Please, report any issues (or even success on running it in other Office applica
 ## Other Contents
 
 - [File Handler Module for VBA](https://github.com/juliolmuller/VBA-Module-TextFile)
-- [File Handler Class for VBA](https://github.com/juliolmuller/VBA-Class-File)
