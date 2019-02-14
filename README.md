@@ -1,7 +1,7 @@
 
 # MS Outlook Module for Visual Basic for Application
 
-- **Developed by:** [Julio L. Muller](https://www.linkedin.com/in/juliolmuller/)
+- **Developed by:** [Julio L. Muller](https://www.jjsolutions.net/)
 - **Released on:** May 12, 2018
 - **Updated on:** Jan 30, 2019
 - **Latest version:** 1.0.0
