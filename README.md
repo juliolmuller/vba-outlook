@@ -5,7 +5,7 @@
 - **Released on:** May 12, 2018
 - **Updated on:** Jan 30, 2019
 - **Latest version:** 1.0.0
-- **License:** *FREE*
+- **License:** MIT
 
 ## Installation
 
@@ -155,7 +155,7 @@ Function SendEmail( _
         End If            '                                    ^
     Next c
 
-'NOTE: Although you have only a single receipt address to send the message, 
+'NOTE: Although you have only a single receipt address to send the message,
 '      it is required to convert the parameters to *array* (use `Arrau()` function)
 ```
 
